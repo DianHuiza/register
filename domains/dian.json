@@ -1,0 +1,11 @@
+{
+  "description": "My portfolio website",
+  "repo": "https://github.com/DianHuiza/portfolio",
+  "owner": {
+    "name": "DianHuiza",
+    "email": "dianhuiza@gmail.com",
+  },
+  "record": {
+    "CNAME": "https://dianhuiza.github.io/portfolio/"
+  }
+}
